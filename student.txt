@@ -1,0 +1,5 @@
+Student Management System
+
+Student Name: Nireeksha R
+USN: 26UG4GWCS0113
+Department:CSE
